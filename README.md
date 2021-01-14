@@ -1,4 +1,4 @@
-# FunQuestions
+# Fun Questions
 Fun questions to ask on road trips, waiting around, QOTD, etc.
 
 ## Open Ended Questions
